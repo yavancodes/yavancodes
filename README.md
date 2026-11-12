@@ -1,4 +1,68 @@
 
+# 👋 Hi, I'm Yavan Prakash Sakhare
+
+### 📊 Aspiring Data Analyst | Excel | SQL | Python | Power BI
+
+I'm an aspiring Data Analyst from India, passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.
+
+📧 **Email Me:** yavansakhare620@gmail.com
+
+- 🔭 **I'm currently working on:** End-to-End E-commerce Sales & Customer Analytics (Almost Completed).
+- 🌱 **I'm currently learning:** Python, SQL, Power BI, Excel & Data Visualization.
+- 👯 **I'm looking to collaborate on:** Data Analytics, Business Intelligence & Real-World Data Projects.
+- 🤔 **I'm looking for help with:** Advanced SQL, Power BI Dashboards & Real-World Analytics Projects.
+- 💬 **Ask me about:** Excel, SQL, Python, Data Cleaning & Data Visualization.
+- 📫 **How to reach me:** yavansakhare620@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love Data, Analytics and Turning Numbers into Stories!
+
+---
+
+## 🚀 My Data Analytics Projects
+
+### 1. Project 1: End-to-End E-commerce Sales & Customer Analytics
+
+🟡 **Status: Almost Completed**
+
+- Analyzing e-commerce sales and customer behavior.
+- Identifying top-performing products and categories.
+- Analyzing revenue, profit and sales trends.
+- Understanding customer purchasing patterns.
+- Creating interactive dashboards and business insights.
+
+**Tools:** Excel | SQL | Python | Power BI
+
+### 2. Project 2: Supply Chain & Inventory Analytics
+
+🔵 **Status: In Progress**
+
+- Analyzing supply chain and inventory performance.
+- Tracking stock levels and inventory movement.
+- Identifying low-stock and overstock products.
+- Analyzing supplier and delivery performance.
+- Monitoring order fulfillment and operational efficiency.
+- Building dashboards for better inventory management.
+
+**Tools:** Excel | SQL | Python | Power BI
+
+---
+
+## 🛠️ Technical Skills
+
+- **Excel:** Data Cleaning, Pivot Tables, VLOOKUP, XLOOKUP
+- **SQL:** JOIN, GROUP BY, Subqueries, Aggregate Functions
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI:** Data Visualization, Interactive Dashboards
+- **Data Analytics:** Data Cleaning, EDA, Data Visualization, Business Insights
+
+---
+
+## 📊 My Goal
+
+To become a skilled Data Analyst by working on real-world projects, developing analytical skills and converting data into actionable business insights.
+
+**Let's Connect and Grow Together! 🚀**
+
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yavan Sakhare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yavansakhare620@gmail.com) 
 
