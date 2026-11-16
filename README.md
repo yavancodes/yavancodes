@@ -32,20 +32,6 @@ I'm an aspiring Data Analyst from India, passionate about transforming raw data 
 
 **Tools:** Excel | SQL | Python | Power BI
 
-### 2. Project 2: Supply Chain & Inventory Analytics
-
-🔵 **Status: In Progress**
-
-- Analyzing supply chain and inventory performance.
-- Tracking stock levels and inventory movement.
-- Identifying low-stock and overstock products.
-- Analyzing supplier and delivery performance.
-- Monitoring order fulfillment and operational efficiency.
-- Building dashboards for better inventory management.
-
-**Tools:** Excel | SQL | Python | Power BI
-
----
 
 ## 🛠️ Technical Skills
 
