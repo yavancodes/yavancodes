@@ -76,7 +76,7 @@ Analyzed e-commerce sales data to understand business performance, product sales
 5. Orders by Status
 6. Monthly Number of Orders
 
-**Repository:** [E-commerce Sales Analytics](YOUR_PROJECT_REPOSITORY_LINK)
+**Repository:** [E-commerce Sales Analytics](https://github.com/yavancodes/Ecommerce-Sales-Analytics-Dashboard)
 
 ## 📚 Currently Learning
 
